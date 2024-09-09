@@ -1,0 +1,9 @@
+container: deluge
+host: localhost
+port: 58846
+user: johndoe
+password: secret
+ratio_limit: 2.0
+allowed_trackers:
+  - tracker1.org
+  - othertracker.com
